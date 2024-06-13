@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Teleport.unity
+    guid: 7d9e468b78edefa44a59abbb67c2da7b
+  - enabled: 1
+    path: Assets/Scenes/map_shooting.unity
+    guid: 9adf0600f1e19c14983fc79c0deb9970
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6aba1d7ac62354241a9f9c3e7ae12139,
       type: 2}
