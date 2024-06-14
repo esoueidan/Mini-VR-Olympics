@@ -5137,9 +5137,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1494541423}
-        m_TargetAssemblyTypeName: GotoClimbing, Assembly-CSharp
-        m_MethodName: 
+      - m_Target: {fileID: 1494541426}
+        m_TargetAssemblyTypeName: GotoBasketBall, Assembly-CSharp
+        m_MethodName: loadBasketBall
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
