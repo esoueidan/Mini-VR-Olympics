@@ -7,6 +7,10 @@ TagManager:
   - target
   - Boss
   - Ball
+  - PlayerHand
+  - Bullet
+  - ScoreObject
+  - Breakable
   layers:
   - Default
   - TransparentFX
