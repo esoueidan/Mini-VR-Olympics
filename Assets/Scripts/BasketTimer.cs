@@ -37,7 +37,7 @@ public class BasketTimer : MonoBehaviour
     {
         int minutes = Mathf.FloorToInt(timeRemaining / 60);
         int seconds = Mathf.FloorToInt(timeRemaining % 60);
-        timerText.text = string.Format("{0}:{1}", minutes, seconds);
+        timerText.text = string.Format("time : {0}:{1}", minutes, seconds);
     }
 
     private void ShowEndCanvas()
